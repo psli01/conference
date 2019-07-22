@@ -5,7 +5,7 @@
 ## EMNL (2019-11-03 to 2019-11-07)
 [2018](https://aclweb.org/anthology/events/emnlp-2018/) [2017](https://aclweb.org/anthology/events/emnlp-2017/) [2016](https://aclweb.org/anthology/events/emnlp-2016/)
 
-## NAACL ()
+## NAACL (2021-06-06 to 2021-06-11)
 [2019](https://aclweb.org/anthology/events/naacl-2019/) [2018](https://aclweb.org/anthology/events/naacl-2018/) [2016](https://aclweb.org/anthology/events/naacl-2016/)
 
 ## NIPS (2019-12-08 to 2019-12-14)
