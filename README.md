@@ -1,9 +1,9 @@
 # Paper List
 
-## ACL (2019-07-28 to 2019-08-02)
+## ACL (2020-07-05 to 2020-07-10)
 [2019](https://www.aclweb.org/anthology/events/acl-2019/) [2018](https://www.aclweb.org/anthology/events/acl-2018/) [2017](https://www.aclweb.org/anthology/events/acl-2017/) [2016](https://www.aclweb.org/anthology/events/acl-2016/)  
 
-## EMNL (2019-11-03 to 2019-11-07)
+## EMNLP (2019-11-03 to 2019-11-07)
 [2018](https://aclweb.org/anthology/events/emnlp-2018/) [2017](https://aclweb.org/anthology/events/emnlp-2017/) [2016](https://aclweb.org/anthology/events/emnlp-2016/)
 
 ## NAACL (2021-06-06 to 2021-06-11)
@@ -23,7 +23,7 @@
 ## AAAI (2020-02-07 to 2020-02-12)
 [2019](https://aaai.org/Conferences/AAAI-19/wp-content/uploads/2018/11/AAAI-19_Accepted_Papers.pdf) [2018](https://aaai.org/Conferences/AAAI-18/wp-content/uploads/2017/12/AAAI-18-Accepted-Paper-List.Web_.pdf) [2017](https://www.aaai.org/Conferences/AAAI/2017/aaai17accepted-papers.pdf) [2016](http://www.aaai.org/Conferences/AAAI/2016/aaai16accepted-papers.pdf)
 
-## IJCAI (2019-08-10 to 2019-08-16)
+## IJCAI (2020-07-11 to 2020-07-17)
 [2019](https://www.ijcai.org/proceedings/2019/) [2018](https://www.ijcai-18.org/accepted-papers/index.html) [2017](https://ijcai-17.org/accepted-papers.html) [2016](http://ijcai-16.org/index.php/welcome/view/accepted_papers)
 
 
