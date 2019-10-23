@@ -24,9 +24,7 @@
 [2019](https://aaai.org/Conferences/AAAI-19/wp-content/uploads/2018/11/AAAI-19_Accepted_Papers.pdf) [2018](https://aaai.org/Conferences/AAAI-18/wp-content/uploads/2017/12/AAAI-18-Accepted-Paper-List.Web_.pdf) [2017](https://www.aaai.org/Conferences/AAAI/2017/aaai17accepted-papers.pdf) [2016](http://www.aaai.org/Conferences/AAAI/2016/aaai16accepted-papers.pdf)
 
 ## IJCAI (2019-08-10 to 2019-08-16)
-[2018](https://www.ijcai-18.org/accepted-papers/index.html) [2017](https://ijcai-17.org/accepted-papers.html) [2016](http://ijcai-16.org/index.php/welcome/view/accepted_papers)
-
-
+[2019](https://www.ijcai.org/proceedings/2019/) [2018](https://www.ijcai-18.org/accepted-papers/index.html) [2017](https://ijcai-17.org/accepted-papers.html) [2016](http://ijcai-16.org/index.php/welcome/view/accepted_papers)
 
 
 
